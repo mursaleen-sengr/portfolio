@@ -1,0 +1,35 @@
+[
+    {
+        "id": "Graduate Management Admission Council , USA",
+        "educationPicture": "https://upload.wikimedia.org/wikipedia/commons/3/35/2019_GMAC_SocialMedia_ProfileImages_TwitterLinkedInWiki_400x400.png",
+        "educationTitle": "GMAT Focus",
+        "educationType": "Degree:",
+        "educationTime": "Sept-2024",
+        "educationCompany": "Graduate Management Admission Council , USA"
+    },  
+    {
+        "id": "University-of-Agriculture-Faisalabad",
+        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiz1hizxj87ict1TGcAfHlg6lXDCTRmREjw&s",
+        "educationTitle": "Master in Computer Science",
+        "educationType": "Degree:",
+        "educationTime": "2019 - 2021",
+        "educationCompany": "University of Agriculture, Faisalabad"
+    },
+    {
+        "id": "University-of-Agriculture-Faisalabad",
+        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiz1hizxj87ict1TGcAfHlg6lXDCTRmREjw&s",
+        "educationTitle": "Bachelor of Education",
+        "educationType": "Degree:",
+        "educationTime": "2021 - 2022",
+        "educationCompany": "University of Agriculture, Faisalabad"
+    },
+    {
+        "id": "Government-College-University-Faislabad",
+        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAg10wurjWti0AgDZ6Z3ghPhObbSo99hkMrQ&s",
+        "educationTitle": "Bachelor of Science in Computer Science",
+        "educationType": "Degree:",
+        "educationTime": "Sept 2015 - May 2019",
+        "educationCompany": "Government College University, Faislabad"
+    }   
+
+]

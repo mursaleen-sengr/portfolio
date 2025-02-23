@@ -1,0 +1,71 @@
+[
+  {
+    "id": "KOIN-Network",
+    "jobPicture": "https://media.licdn.com/dms/image/v2/D4E0BAQFYsbcgfA_Xlg/company-logo_200_200/company-logo_200_200/0/1710275066519/koin_network_logo?e=1739404800&v=beta&t=3SStidP9KJmlDue3CnXWA_DJn7xVeBu1TVqnB3rbDNw",
+    "jobColor": "#006fff",
+    "jobTitle": "Blockchain Developer",
+    "jobTime": "May 2024 - Present",
+    "jobCompany": "KOIN Network",
+    "jobCompanySite": "https://www.koin.network/",
+    "jobDescription": "Development of NFT marketplace infrastructure, implemented multi-chain deployments, and integration of smart contracts with Web2 systems.",
+    "jobActivities": [
+      "Audit, test, and deploy smart contracts across various blockchain networks.",
+      "Integrate smart contracts with Node.js and REST APIs, as well as WebSocket protocols.",
+      "Collaborate on the design and development of secure and scalable blockchain solutions."
+    ],
+    "jobTechnologies": ["Ethereum", "Kafka", "Node.js", "Solidity", "web3.js", "ethers.js", "IPFS"]
+  },
+  {
+    "id": "QuadPlexs",
+    "jobPicture": "https://i.postimg.cc/HndLRwrK/quad-plexs-logo.jpg",
+    "jobColor": "#006fff",
+    "jobTitle": "Blockchain Engineer | Senior Consultant",
+    "jobTime": "February 2023 - May 2024",
+    "jobCompany": "QuadPlexs",
+    "jobCompanySite": "https://quadplexs.com/",
+    "jobDescription": "Led cross-functional teams in researching, developing, and implementing scalable blockchain technologies while managing resources and overseeing operations.",
+    "jobActivities": [
+      "Conduct research on blockchain technologies, protocols, and emerging trends.",
+      "Oversee all departments, including development, Blockchain Department, and marketing.",
+      "Design and develop efficient, secure, and scalable blockchain architectures and protocols.",
+      "Manage resource allocation in the Blockchain Department and conduct interviews for new hirings.",
+      "Serve as a Blockchain business analyst and desk technician."
+    ],
+    "jobTechnologies": ["Blockchain technologies", "Protocols", "Node.js", "REST APIs", "WebSocket protocols", "Scalable architecture"]
+  },
+  {
+    "id": "Analog",
+    "jobPicture": "https://media.licdn.com/dms/image/v2/D560BAQGxk1II4nDJMg/company-logo_200_200/company-logo_200_200/0/1690535665036/analogone_logo?e=1739404800&v=beta&t=0l9zktiOA3NV6FNQ_W9Plz3muxsVM4928USob4BhXIU",
+    "jobColor": "#0033cc",
+    "jobTitle": "Blockchain Researcher",
+    "jobTime": "Feb 2022 - Jan 2023",
+    "jobCompany": "Analog",
+    "jobCompanySite": "https://www.analog.one/",
+    "jobDescription": "Conducted research on advanced blockchain technologies, specializing in governance, interoperability protocols, and privacy.",
+    "jobActivities": [
+      "Conduct research on blockchain technologies, protocols, and emerging trends.",
+      "Collaborate with cross-functional teams to execute research projects.",
+      "Design and develop efficient, secure, and scalable blockchain architectures and protocols.",
+      "Specialize in governance, interoperability protocols, DeFi, and Crypto."
+    ],
+    "jobTechnologies": ["Solidity", "Layer-0", "Blockchain protocols", "Governance", "Interoperability protocols", "Zero-knowledge proofs", "Proof of Time"]
+  },
+  {
+    "id": "InvoZone",
+    "jobPicture": "https://media.licdn.com/dms/image/v2/C4D0BAQH24ipABhggsw/company-logo_200_200/company-logo_200_200/0/1661148759362/invozone_logo?e=1739404800&v=beta&t=o_94c9ImtQijlZMbujoXfSlp5oviSgxEgNQQ-YBy3To",
+    "jobColor": "#27235e",
+    "jobTitle": "Blockchain Engineer",
+    "jobTime": "July 2020 - January 2022",
+    "jobCompany": "InvoZone",
+    "jobCompanySite": "https://invozone.com/",
+    "jobDescription": "Led strategic planning and development for blockchain projects, focusing on decentralized exchanges (DEX) and tokenization. Specialized in smart contract development and auditing.",
+    "jobActivities": [
+      "Developed and audited smart contracts using Hardhat and Truffle frameworks.",
+      "Implemented construction staking and ensured the successful deployment of blockchain tokens.",
+      "Demonstrated expertise in IPFS and web3.js to support blockchain projects.",
+      "Conducted extensive research on blockchain technologies to inform business strategy.",
+      "Managed resources effectively to optimize project outcomes."
+    ],
+    "jobTechnologies": ["Web3", "Truffle", "Solidity", "Hardhat", "IPFS", "web3.js"]
+  }
+]
