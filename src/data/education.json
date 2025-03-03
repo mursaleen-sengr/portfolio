@@ -1,35 +1,10 @@
 [
     {
-        "id": "Graduate Management Admission Council , USA",
-        "educationPicture": "https://upload.wikimedia.org/wikipedia/commons/3/35/2019_GMAC_SocialMedia_ProfileImages_TwitterLinkedInWiki_400x400.png",
-        "educationTitle": "GMAT Focus",
+        "id": "The Islamia University of Bahawalpur",
+        "educationPicture": "https://media.licdn.com/dms/image/v2/C4D0BAQH5oHMeffdMoQ/company-logo_200_200/company-logo_200_200/0/1630501992407/the_islamia_university_of_bahawalpur_logo?e=1749081600&v=beta&t=5LeG_s4_CSd9bUTNd1kZrii_wdnHmBQbexq8vFbbQpE",
+        "educationTitle": "Bachelor of Science in Software Engineering",
         "educationType": "Degree:",
-        "educationTime": "Sept-2024",
-        "educationCompany": "Graduate Management Admission Council , USA"
-    },  
-    {
-        "id": "University-of-Agriculture-Faisalabad",
-        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiz1hizxj87ict1TGcAfHlg6lXDCTRmREjw&s",
-        "educationTitle": "Master in Computer Science",
-        "educationType": "Degree:",
-        "educationTime": "2019 - 2021",
-        "educationCompany": "University of Agriculture, Faisalabad"
-    },
-    {
-        "id": "University-of-Agriculture-Faisalabad",
-        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRYiz1hizxj87ict1TGcAfHlg6lXDCTRmREjw&s",
-        "educationTitle": "Bachelor of Education",
-        "educationType": "Degree:",
-        "educationTime": "2021 - 2022",
-        "educationCompany": "University of Agriculture, Faisalabad"
-    },
-    {
-        "id": "Government-College-University-Faislabad",
-        "educationPicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAg10wurjWti0AgDZ6Z3ghPhObbSo99hkMrQ&s",
-        "educationTitle": "Bachelor of Science in Computer Science",
-        "educationType": "Degree:",
-        "educationTime": "Sept 2015 - May 2019",
-        "educationCompany": "Government College University, Faislabad"
-    }   
-
+        "educationTime": "2020-2024",
+        "educationCompany": "The Islamia University of Bahawalpur"
+    }
 ]

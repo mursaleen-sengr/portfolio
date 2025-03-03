@@ -1,185 +1,62 @@
 [
     {
-        "id": "BlueJestic",
-        "carouselImages": ["https://i.postimg.cc/YCd5kpTS/image-large.jpg"],
-        "projectSite": "https://bluejestic.com/",
-        "projectTitle": "BlueJestic",
-        "projectSlogan": "Marketplace",
-        "projectDescription": "BlueJestic is a social media platform similar to Facebook that allows users to create profiles, share posts, like and comment on content, send friend requests, and follow users. It also includes a marketplace for buying and selling items, similar to Facebook's marketplace feature. The platform supports real-time messaging, media uploads, and secure authentication, optimized for scalability and performance.",
-        "projectTechnologies": ["Web Development", "MERN Stack", "Firebase", "React" ,"Javascript"]
+        "id": "ChatWithDatabase",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/ChatWithDatabase",
+        "projectSite": "https://example.com/chat-with-db",
+        "projectTitle": "Chat with Database",
+        "projectSlogan": "Natural Language Database Queries",
+        "projectDescription": "A chatbot that enables users to query databases using natural language, making data retrieval intuitive and efficient.",
+        "projectTechnologies": ["Python", "SQL", "NLTK", "OpenAI API", "Streamlit"]
     },
     {
-        "id": "Swapper",
-        "carouselImages": ["https://i.ibb.co/DfSRGFrh/Copy-of-Copy-of-Copy-of-p-thum-onemint-2.png"],
-        "projectSite": "https://sepolia.etherscan.io/address/0x83c1C65548D72B674829669a25453E84aAfca7b9",
-        "projectRepo": "https://github.com/sheezanazeer98/swapper",
-        "projectTitle": "Swapper",
-        "projectSlogan": "Crypto Swap",
-        "projectDescription": "Swapping contract with Uniswap that converts ETH to the respective tokens.",
-        "projectTechnologies": ["Blockchain", "Ethereum", "ERC-20", "Uniswap" ,"Solidity"]
+        "id": "CropYieldPrediction",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/Crop-Yield-Prediction",
+        "projectSite": "https://example.com/crop-yield",
+        "projectTitle": "Crop Yield Prediction using Machine Learning",
+        "projectSlogan": "Predicting Crop Yield with Meteorological Data",
+        "projectDescription": "A machine learning model that predicts crop yield based on meteorological factors such as temperature and rainfall, helping farmers make data-driven decisions.",
+        "projectTechnologies": ["Python", "Scikit-Learn", "Pandas", "NumPy", "Matplotlib"]
     },
     {
-        "id": "MintsClub",
-        "carouselImages": ["https://i.postimg.cc/hGbpgMX1/image-large221.jpg"],
-        "projectSite": "https://mintsclub.io/",
-        "projectTitle": "MintsClub",
-        "projectSlogan": "NFT Marketplace",
-        "projectDescription": "NFT minting site on EVM compatible blockchains, using the ERC1155 smart contract. It allows users to create a new collection, deploy the contract and mint the NFTs automatically without any developments.",
-        "projectTechnologies": ["NFT Minting", "MERN Stack", "Blockchain", "React" ,"ERC-1155"]
+        "id": "EDAVisualizationAgent",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/EDA-Visualization-Agent",
+        "projectSite": "https://example.com/eda-agent",
+        "projectTitle": "EDA and Visualization Agent",
+        "projectSlogan": "AI-powered Exploratory Data Analysis",
+        "projectDescription": "An intelligent agent that automates exploratory data analysis and generates interactive visualizations, simplifying data insights.",
+        "projectTechnologies": ["Python", "Pandas", "Matplotlib", "Seaborn", "Plotly", "Streamlit"]
     },
     {
-        "id": "REDGREEN1",
-        "carouselImages": ["https://i.postimg.cc/PfwsnntW/image-original-d-2.png"],
-        "projectRepo": "https://github.com/sheezanazeer98/RedGreen1",
-        "projectSite": "https://polygonscan.com/token/0x436A45d6c40DE75Dc8005CA4A41ddCC2B45065cD",
-        "projectTitle": "REDGREEN1",
-        "projectSlogan": "ERC20 Token Implementation",
-        "projectDescription": "RedGreen1 is an ERC20 token with a fixed supply, deployed on the Polygon mainnet, and listed on exchanges like Uniswap and Sushiswap",
-        "projectTechnologies": ["Cryptocurrency", "Blockchain", "ERC-20", "Polygon" ,"Tokens"]
+        "id": "FakeNewsClassifierLSTM",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/Fake-News-Classifier",
+        "projectSite": "https://example.com/fake-news",
+        "projectTitle": "Fake News Classifier Using LSTM",
+        "projectSlogan": "Deep Learning-Based Fake News Detection",
+        "projectDescription": "An LSTM-based deep learning model that classifies news articles as real or fake, improving misinformation detection.",
+        "projectTechnologies": ["Python", "TensorFlow", "Keras", "LSTM", "NLTK"]
     },
     {
-        "id": "Reetro",
-        "carouselImages":["https://i.postimg.cc/zXxkd390/image-large123.jpg"],
-        "projectSite": "https://www.reetro.io/",
-        "projectTitle": "Reetro",
-        "projectSlogan": "Project Management",
-        "projectDescription": "Reetro.io is a project management tool inspired by platforms like Jira and ClickUp, providing a full-stack solution to help teams manage projects, track tasks, collaborate, and monitor progress. With a React.js frontend and Node.js backend, the platform offers features like task management, Kanban boards, sprint planning, real-time notifications, and reports. Users can assign tasks, comment, manage teams, and track time spent on tasks. Real-time collaboration and updates are enabled through WebSockets or third-party services.",
-        "projectTechnologies": ["Web Development", "MERN Stack", "Node.js", "React" ,"Javascript"]
+        "id": "RAG-PDF-Chatbot",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/RAG-PDF-Chatbot",
+        "projectSite": "https://example.com/rag-chatbot",
+        "projectTitle": "RAG-PDF-Chatbot",
+        "projectSlogan": "AI-Powered PDF Q&A Chatbot",
+        "projectDescription": "A chatbot using RAG (Retrieval-Augmented Generation) to answer questions based on PDF documents, featuring FAISS for vector storage and Groq for inference.",
+        "projectTechnologies": ["Python", "FAISS", "Groq", "GoogleGenerativeAIEmbeddings", "LangChain", "Streamlit"]
     },
     {
-        "id": "analog_blockchain_researcher",
-        "carouselImages": ["https://research.tokenmetrics.com/wp-content/uploads/2023/06/Analog-research-3-scaled.jpg"],
-        "projectRepo": "https://github.com/Analog-Labs",
-        "projectSite": "https://www.analog.one/",
-        "projectTitle": "Analog",
-        "projectSlogan": "Multi-Chain Ecosystem",
-        "projectDescription": " I've led in-depth analyses and development within a multi-chain ecosystem, focusing on Polkadot, DAOs, and DeFi. My role involves pioneering interoperable blockchain solutions, auditing NFT and smart contract security, and utilizing IPFS and web3.js. I excel in consensus building, strategic market research, and fostering innovation within my team.",
-        "projectTechnologies": [
-            "Solidity",
-            "Ethereum",
-            "Polkadot",
-            "OpenZeppelin",
-            "Hardhat",
-            "Ethers.js",
-            "web3.js",
-            "IPFS",
-            "Construction Staking",
-            "Tokenization",
-            "Distributed Ledger Technology (DLT)",
-            "Defi",
-            "Decentralized Exchanges (DEX)",
-            "Smart Contracts"
-        ]
-
-    }
-,    
-    {
-        "id": "ARISwap",
-        "carouselImages": ["https://miro.medium.com/v2/resize:fit:1200/0*CyaRs8XttrW1LXuM.jpg"],
-        "projectRepo": "https://github.com/sheezanazeer98/ARISwap",
-        "projectSite": "https://explorer.celo.org/mainnet/address/0x745f233f80F7ddA3073755e50Fa32F4B8A6A1574/contracts#address-tabs",
-        "projectTitle": "ARISwap",
-        "projectSlogan": "Advanced ERC721 Token for Swap",
-        "projectDescription": "ARISwap is an ERC721 token with extended functionalities for bidding and fixed price sales. The contract supports minting new NFTs, opening them for bidding, placing bids, accepting offers, and managing fixed price sales. It includes safety checks and fee mechanisms to ensure secure and fair transactions.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Ethers.js"]
-    },
-
-    {
-        "id": "hms",
-        "carouselImages": ["https://i.ibb.co/whHHVXms/Copy-of-Copy-of-Copy-of-Copy-of-p-thum-onemint.png"],
-        "projectRepo": "https://github.com/sheezanazeer98/hms",
-        "projectSite": "https://sepolia.etherscan.io/address/0xcE5c440deD2310171Ca81199e1fAc43EF1792451",
-        "projectTitle": "Healthcare Management System (HMS)",
-        "projectSlogan": "Blockchain-Powered Secure Healthcare Data Management",
-        "projectDescription": "HMS is a decentralized healthcare management system built on Polygon L2 to securely store and manage patient records. It enables role-based access for patients, hospitals, and administrators, ensuring privacy, transparency, and immutability using smart contracts and IPFS. To enhance security and off-chain data integrity, it implements EIP-712 signature verification, allowing users to sign and verify data updates off-chain before committing them to the blockchain, reducing gas costs and ensuring trustless verification.",
-        "projectTechnologies": ["Solidity", "Polygon", "Hardhat", "Ethers.js", "IPFS", "OpenZeppelin"]
-    },
-
-    {
-        "id": "Wolverinu",
-        "carouselImages": ["https://assets-global.website-files.com/6191e507f3028a2aa81f9749/61994d437f6c6b053b21d8eb_Wolverinu_logo.svg","https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR2cK74XypE3W4uL0xKHSlstayt8qVVoY-b4Q&s"],
-        "projectRepo": "https://github.com/sheezanazeer98/Wolverinu",
-        "projectSite": "https://etherscan.io/address/0xca7b3ba66556C4Da2E2A9AFeF9C64F909A59430a#code",
-        "projectTitle": "Wolverinu",
-        "projectSlogan": "Enhanced ERC20 Token",
-        "projectDescription": "Wolverinu is an ERC20 token featuring ownership, transaction fees, cooldown mechanisms, and Uniswap integration. The project leverages Hardhat for contract compilation, testing, and deployment.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Uniswap"]
-    },
-
-    {
-        "id": "Icury-1155",
-        "carouselImages": ["https://iceclog.com/wp-content/uploads/2019/11/Icury-coin.png"],
-        "projectSite": "https://polygonscan.com/address/0xEFDa7Ee2C8EFaE5F55402850b7467FF1dcA2E199#code",
-        "projectTitle": "Icury ERC1155",
-        "projectSlogan": "Multi-Asset Token",
-        "projectDescription": "Icury ERC1155 is a multi-asset token standard that supports the creation of fungible and non-fungible tokens within a single contract. The project leverages Polygon for scalability and OpenZeppelin for contract security.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Polygon", "Hardhat"]
-    },
-    {
-        "id": "nft marketplace",
-        "carouselImages": ["https://linktr.ee/og/image/artefy.jpg"],
-        "projectSite": "https://artefy.io/",
-        "projectTitle": "Artefy.io",
-        "projectSlogan": "Discover, Buy, and Sell NFTs",
-        "projectDescription": "Artefy.io is a decentralized marketplace for NFTs, allowing users to discover, buy, and sell unique digital assets. The platform offers a seamless user experience with features like bidding, auctions, and instant purchases.",
-        "projectTechnologies": ["Solidity", "React", "Web3.js", "IPFS"]
-    },
-    {
-        "id": "ADAMANTIUM",
-        "carouselImages": ["https://www.kanalcoin.com/wp-content/uploads/2021/11/BEP-20.jpg","https://blog.accubits.com/wp-content/uploads/2021/06/How-to-create-a-token-on-Binance-Chain-BEP20-tokens.jpg"],
-        "projectRepo": "https://github.com/sheezanazeer98/ADAMANTIUM",
-        "projectSite": "https://etherscan.io/address/0x2f72aD04c549E1ab350e52E8437Ec795309218B3#code",
-        "projectTitle": "ADAMANTIUM",
-        "projectSlogan": "BEP-20 Token with Dex Integration",
-        "projectDescription": "ADAMANTIUM is a BEP-20 token contract with standard BEP-20 functions, transaction fees, maximum transaction limits, fee exclusions, and Dex integration for liquidity pairs. It includes ownership management and uses the SafeMath library for safe arithmetic operations.",
-        "projectTechnologies": ["Solidity", "Binance Smart Chain", "SafeMath", "PancakeSwap"]
-    },
-    {
-        "id": "StakeContract",
-        "carouselImages": ["https://imageio.forbes.com/specials-images/imageserve/63cbef6da10b5f5f8e6e3ae4/Liquid-shakers-have-provided-investors-with-a-way-to-earn-passive-income-while/1960x0.jpg?format=jpg&width=960"],
-        "projectSite": "https://etherscan.io/address/0xf2b4e3654f0fb4edf440fa224000af663980b58c#code",
-        "projectTitle": "Wolverinu Staking",
-        "projectSlogan": "Maximize Your Earnings",
-        "projectDescription": "Wolverinu Staking allows users to stake their ERC20 tokens and earn rewards. The contract supports multiple staking options and is built with security in mind. Users can monitor their staked assets and rewards in real-time.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Ethers.js"]
-    },
-    {
-        "id": "AirDropRc31",
-        "carouselImages": ["https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSBhE0mJL4ZgBpgjjPffLK6U_g3jOIRzPqe3g&s"],
-        "projectSite": "https://testnet.bscscan.com/address/0x5259ebeeed274ee83981d9da65482edf31aa6f59#code",
-        "projectTitle": "AirDropRc31",
-        "projectRepo": "https://github.com/sheezanazeer98/R-930",
-        "projectSlogan": "Token Distribution Simplified",
-        "projectDescription": "AirDropRc31 is a contract for distributing ERC20 tokens to multiple addresses efficiently. The contract is designed for large-scale airdrops, ensuring fair and secure token distribution with minimal transaction fees.",
-        "projectTechnologies": ["Solidity", "BSC", "Ethers.js", "Hardhat"]
-    },
-    {
-        "id": "Icury",
-        "carouselImages": ["https://coindoo.com/wp-content/uploads/2018/10/erc-20.jpg"],
-        "projectRepo": "https://github.com/sheezanazeer98/IcuryErc20/",
-        "projectSite": "https://sepolia.etherscan.io/address/0xA736dcE7a51A9ECE7437121C731CF0B6E88a50E0",
-        "projectTitle": "Icury",
-        "projectSlogan": "ERC20 Token Implementation",
-        "projectDescription": "Icury is an ERC20 token contract designed to facilitate the creation, management, and transfer of tokens. This project includes standard ERC20 functionalities, such as minting, burning, and transferring tokens, along with additional security measures to ensure safe transactions.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Truffle", "Web3.js"]
-    },
-    {
-        "id": "NolimitCoin",
-        "carouselImages": ["https://i.postimg.cc/VL9N1CYW/image-original-2d.png"],
-        "projectRepo": "https://github.com/sheezanazeer98/nolimitcoin",
-        "projectSite": "https://polygonscan.com/token/0xc157ee77518769b8009642F68A8d6A500ff59d53",
-        "projectTitle": "NolimitCoin",
-        "projectSlogan": "ERC20 Token Chain Migration, Deployment and Airdrop",
-        "projectDescription": "NolimitCoin is a token on the Polygon network where I implemented airdrop functionality using scripting with ethers.js and JavaScript. This included migrating token holders from Binance Smart Chain (BSC) to Polygon via airdrops. The token is now listed on major exchanges such as Uniswap and Sushiswap.",
-        "projectTechnologies": ["Solidity", "OpenZeppelin", "Hardhat", "Ethers.js" ,"Polygon"]
-    },
-    {
-        "id": "OneMint",
-        "carouselImages":["https://i.postimg.cc/vmCy5YYm/image-large45666.jpg"],
-        "projectSite": "https://onemint.io/",
-        "projectTitle": "OneMint",
-        "projectSlogan": "NFT Minting",
-        "projectDescription": "OneMint.io is a platform designed to create a Mint-like NFT marketplace that allows users to mint, buy, and sell NFTs. Built using Next.js for the frontend and NestJS for backend logic, the marketplace integrates with MetaMask to handle cryptocurrency transactions. Smart contracts written in Solidity are deployed on Ethereum or Binance Smart Chain, handling the minting, transferring, and tracking of NFTs. Users can mint NFTs following ERC-721 or ERC-1155 standards, with metadata stored on decentralized storage platforms like IPFS or Filecoin.",
-        "projectTechnologies": ["NFT Minting", "MERN Stack", "Blockchain", "React" ,"ERC-1155"]
+        "id": "RumorsClassificationDetection",
+        "carouselImages": ["https://i.ibb.co/rfZ8pFsq/Copy-of-Modern-Top-10-Shocking-Moments-Youtube-Thumbnail-2.png"],
+        "projectRepo": "https://github.com/mursaleen-sengr/Rumor-Classification",
+        "projectSite": "https://example.com/rumors-detection",
+        "projectTitle": "Rumors Classification Detection",
+        "projectSlogan": "NLP-Based Rumor Classification",
+        "projectDescription": "An NLP-based model for classifying rumors using various machine learning algorithms and BERT fine-tuning to improve accuracy.",
+        "projectTechnologies": ["Python", "NLP", "BERT", "Scikit-Learn", "NLTK", "Pandas", "Matplotlib"]
     }
 ]

@@ -1,35 +1,26 @@
 [
     {
-        "id": "cbbf-certification",
-        "certificatePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRvuXC7VFoReIJZ5p48MIbtC9fweqWdDC2Trw&s",
-        "certificateTitle": "CBBF Certification",
-        "certificateTime": "March 2024",
-        "certificateName": "PIAIC",
-        "certificateDescription": "Successfully passed the CBBF Certification exam, demonstrating proficiency in blockchain technologies and decentralized applications."
+        "id": "LangChain-for-LLM-Application-Development",
+        "certificatePicture": "https://s3.amazonaws.com/coursera_assets/meta_images/generated/XDP/XDP~COURSE!~langchain-for-llm-application-development-project/XDP~COURSE!~langchain-for-llm-application-development-project.jpeg",
+        "certificateTitle": "LangChain for LLM Application Development",
+        "certificateTime": "Jan 2025",
+        "certificateName": "DeepLearning.AI",
+        "certificateDescription": "I completed a deep dive into LangChain for LLM application development, exploring its integrations, prompt chaining, memory, and agent-based workflows to build powerful AI-driven apps."
     },
     {
-        "id": "piaic-test-passing-certificate",
-        "certificatePicture": "https://wpassets.graana.com/blog/wp-content/uploads/2023/05/PIAIC2-1.png",
-        "certificateTitle": "PIAIC Test Passing Certificate",
-        "certificateTime": "March 2024",
-        "certificateName": "PIAIC",
-        "certificateDescription": "Awarded the Test Passing Certificate from PIAIC, reflecting a strong understanding of emerging technologies and their applications."
+        "id": "Attention-Mechanism",
+        "certificatePicture": "https://cdn.qwiklabs.com/rI64q2d%2Bz3FWD5ENjTsKFC4TqEgiGQlRzV42%2FccJ%2Bvs%3D",
+        "certificateTitle": "Attention Mechanism ",
+        "certificateTime": "Dec 2024",
+        "certificateName": "Google",
+        "certificateDescription": "I explored Google's Attention Mechanism, understanding its role in transforming NLP by enabling models to focus on relevant parts of input sequences, leading to advancements like Transformers and GPT."
     },
     {
-        "id": "best-employee-certificate",
-        "certificatePicture": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRk42V6MdwW__yy1qFaZbg7gBHv758V6ysPiQ&s",
-        "certificateTitle": "Best Employee Certificate",
-        "certificateTime": "February 2022",
-        "certificateName": "InvoZone",
-        "certificateDescription": "Honored with the Best Employee Certificate at InvoZone for outstanding performance and dedication to excellence."
-    },
-    {
-        "id": "foundations-of-project-management",
-        "certificatePicture": "https://mms.businesswire.com/media/20240520977028/en/1096766/23/coursera-logo-full-rgb_%284%29.jpg",
-        "certificateTitle": "Foundations of Project Management",
-        "certificateTime": "January 2024",
-        "certificateName": "Coursera",
-        "certificateDescription": "Completed the Foundations of Project Management course on Coursera, gaining essential skills in project planning, execution, and management.",
-        "verify" : "https://www.coursera.org/account/accomplishments/verify/QWJK8ZNLHFMD"
+        "id": "Intermediate-Python",
+        "certificatePicture": "https://assets.datacamp.com/production/course_799/badges/intermediate_python.png?1450811390",
+        "certificateTitle": "Intermediate Python",
+        "certificateTime": "February 2023",
+        "certificateName": "DataCamp",
+        "certificateDescription": "I completed Intermediate Python from DataCamp, enhancing my skills in data handling, OOP, and efficient scripting."
     }
 ]

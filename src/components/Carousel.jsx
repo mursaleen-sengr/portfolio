@@ -52,7 +52,7 @@ export const Carousel = ({ images, path = "" }) => {
                         data-index={index}
                     >
                         <img
-                            className="w-full h-[300px]"
+                            className="w-full"
                             src={`${image}`}
                             alt=""
                             loading="lazy"
